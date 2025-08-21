@@ -37,7 +37,7 @@ $this->extend('layout');
                             Email:
                         </strong>
                         <a href="mailto:contact@example.com">
-                            contact@example.com
+                            jasmintawfik7@gmail.com
                         </a>
                     </li>
                     <li>
@@ -45,20 +45,20 @@ $this->extend('layout');
                             Phone:
                         </strong>
                         <a href="tel:+4512345678">
-                            +45 12345678</a>
+                            +45 52697689</a>
                     </li>
                     <li>
                         <strong>
                             Location:
                         </strong>
                         <span>
-                            City, Country
+                            København, danmark
                         </span>
                     </li>
                 </ul>
 
                 <blockquote>
-                    "Good design is as little design as possible." — Dieter Rams
+                    "Turning creativity into code." —  Jasmin Tawfik
                     <cite>Design Philosophy</cite>
                 </blockquote>
             </div>
