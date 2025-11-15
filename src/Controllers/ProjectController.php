@@ -59,7 +59,7 @@ class ProjectController extends Controller
                 link: '#guestbook',
             ),
             new ProjectDto(
-                title: 'Browser Game',
+                title: ' hejhej',
                 description: 'A fun and engaging browser-based game built with vanilla JavaScript. Implements game mechanics using the requestAnimationFrame API, features smooth animations, collision detection, and a scoring system. Demonstrates strong understanding of DOM manipulation and event handling.',
                 technologies: 'JavaScript, HTML Canvas, CSS Animations',
                 image: 'images/projects/webgame.jpg',
